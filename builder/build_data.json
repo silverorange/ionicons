@@ -1,5 +1,5 @@
 {
-  "build_hash": "a2c6f31123a3cc8385d45bf46c5dde82",
+  "build_hash": "2e24724e2fc97bee4ed8734ba0f4d4c7",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -31,6 +31,10 @@
     {
       "code": "0xf12e",
       "name": "document-text"
+    },
+    {
+      "code": "0xf132",
+      "name": "email"
     },
     {
       "code": "0xf142",
@@ -79,6 +83,10 @@
     {
       "code": "0xf24d",
       "name": "social-youtube"
+    },
+    {
+      "code": "0xf256",
+      "name": "videocamera"
     }
   ]
 }
