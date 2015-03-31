@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2015-3-21: Created with FontForge (http://fontforge.org)
+2015-3-30: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20141231 at Sat Mar 21 10:02:49 2015
+Created by FontForge 20141231 at Mon Mar 30 11:58:01 2015
  By Steven Garrity
 Copyright (c) 2015, Steven Garrity
 </metadata>
@@ -41,6 +41,9 @@ c0 -1 1 -3 3 -3h123c2 0 2 2 2 3v10c0 2 0 3 -2 3h-123c-2 0 -3 -1 -3 -3zM208 67v10
 v-66c0 -6 5 -12 11 -12z" />
     <glyph glyph-name="ion-document" unicode="&#xf12f;" horiz-adv-x="288" 
 d="M287 279c1 -3 1 -5 1 -9v-244c0 -13 -9 -26 -21 -26h-243c-12 0 -24 13 -24 26v335c0 13 12 23 24 23h160c3 0 6 0 9 -2c2 -1 5 -2 7 -4l83 -92c2 -2 3 -4 4 -7zM193 337v-63h58zM32 32h224v210h-67c-15 0 -28 13 -28 28v82h-129v-320z" />
+    <glyph glyph-name="ion-email" unicode="&#xf132;" horiz-adv-x="416" 
+d="M19 299c-4 2 -11 7 -13 11c-3 8 1 10 12 10h191h191c11 0 15 -2 12 -10c-2 -4 -9 -9 -13 -11c-11 -6 -163 -89 -169 -92s-12 -4 -21 -4s-15 1 -21 4s-158 86 -169 92zM408 295c9 4 8 -1 8 -5v-205c0 -9 -12 -21 -22 -21h-185h-185c-10 0 -24 12 -24 21v205s0 9 9 5
+c8 -4 83 -56 132 -88l-83 -93c-2 -2 -2 -4 -1 -5s4 -1 6 1l98 83c15 -10 25 -16 27 -17c8 -4 14 -4 21 -4s13 0 21 4c2 1 12 7 27 17l98 -83c2 -2 5 -2 6 -1s0 3 -2 5l-82 93c49 32 123 84 131 88z" />
     <glyph glyph-name="ion-help-circled" unicode="&#xf142;" 
 d="M224 416c124 0 224 -100 224 -224s-100 -224 -224 -224s-224 100 -224 224s100 224 224 224zM244 89c1 18 -12 31 -29 31c-16 0 -30 -11 -30 -29s12 -30 28 -30c17 0 31 10 31 28zM293 217c7 10 12 22 12 36c0 23 -9 40 -25 52c-17 13 -37 18 -62 18
 c-19 0 -34 -4 -47 -13c-19 -13 -28 -34 -28 -68h49c0 9 -1 19 4 27s13 15 26 15s19 -3 25 -11c5 -7 8 -15 8 -23c0 -7 -4 -14 -8 -20c-2 -4 -6 -7 -10 -10c0 0 -26 -15 -35 -30c-7 -11 -9 -24 -10 -41c0 -1 0 -4 4 -4h39s5 3 5 4c0 6 1 15 2 19c2 7 6 12 12 17l14 9
@@ -75,5 +78,8 @@ c48 -59 119 -97 199 -101c-2 7 -2 14 -2 22c0 54 43 97 97 97c28 0 52 -12 70 -31c22
     <glyph glyph-name="ion-social-youtube" unicode="&#xf24d;" horiz-adv-x="512" 
 d="M509 299c2 -36 3 -71 3 -107s-1 -71 -3 -107c0 -45 -33 -81 -74 -81c-58 -3 -118 -4 -179 -4s-121 1 -179 4c-41 0 -74 36 -74 81c-2 36 -3 71 -3 107s2 71 4 107c0 45 32 81 73 81c55 3 112 4 170 4h9h9c58 0 115 -1 170 -4c41 0 74 -36 74 -81zM207 94l145 98l-145 99
 v-197z" />
+    <glyph glyph-name="ion-videocamera" unicode="&#xf256;" 
+d="M335 263v-66l113 35v-89v-88l-113 35v-65c0 -5 -4 -9 -9 -9h-317c-5 0 -9 4 -9 9v12v55v171c0 5 4 9 9 9h208v38c0 4 -6 10 -10 10h-176v48h178c36 0 65 -29 65 -64v-32h52c5 0 9 -4 9 -9zM226 107c20 0 36 16 36 36s-16 35 -36 35s-36 -15 -36 -35c0 -10 4 -19 11 -26
+h-68c7 7 11 16 11 26c0 20 -16 36 -36 36s-36 -16 -36 -36s16 -36 36 -36h12h95h11z" />
   </font>
 </defs></svg>

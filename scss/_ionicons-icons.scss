@@ -9,6 +9,7 @@
 .#{$ionicons-prefix}chevron-up:before,
 .#{$ionicons-prefix}document:before,
 .#{$ionicons-prefix}document-text:before,
+.#{$ionicons-prefix}email:before,
 .#{$ionicons-prefix}help-circled:before,
 .#{$ionicons-prefix}log-out:before,
 .#{$ionicons-prefix}pause:before,
@@ -20,7 +21,8 @@
 .#{$ionicons-prefix}social-facebook:before,
 .#{$ionicons-prefix}social-tumblr:before,
 .#{$ionicons-prefix}social-twitter:before,
-.#{$ionicons-prefix}social-youtube:before
+.#{$ionicons-prefix}social-youtube:before,
+.#{$ionicons-prefix}videocamera:before
 {
   @extend .ion;
 }
@@ -31,6 +33,7 @@
 .#{$ionicons-prefix}chevron-up:before { content: $ionicon-var-chevron-up; }
 .#{$ionicons-prefix}document:before { content: $ionicon-var-document; }
 .#{$ionicons-prefix}document-text:before { content: $ionicon-var-document-text; }
+.#{$ionicons-prefix}email:before { content: $ionicon-var-email; }
 .#{$ionicons-prefix}help-circled:before { content: $ionicon-var-help-circled; }
 .#{$ionicons-prefix}log-out:before { content: $ionicon-var-log-out; }
 .#{$ionicons-prefix}pause:before { content: $ionicon-var-pause; }
@@ -43,3 +46,4 @@
 .#{$ionicons-prefix}social-tumblr:before { content: $ionicon-var-social-tumblr; }
 .#{$ionicons-prefix}social-twitter:before { content: $ionicon-var-social-twitter; }
 .#{$ionicons-prefix}social-youtube:before { content: $ionicon-var-social-youtube; }
+.#{$ionicons-prefix}videocamera:before { content: $ionicon-var-videocamera; }
