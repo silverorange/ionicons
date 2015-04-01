@@ -1,5 +1,5 @@
 {
-  "build_hash": "a2c6f31123a3cc8385d45bf46c5dde82",
+  "build_hash": "90930052c05d2558be243ceecb265830",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -39,6 +39,14 @@
     {
       "code": "0xf142",
       "name": "help-circled"
+    },
+    {
+      "code": "0xf400",
+      "name": "ios-circle-filled"
+    },
+    {
+      "code": "0xf401",
+      "name": "ios-circle-outline"
     },
     {
       "code": "0xf29f",
