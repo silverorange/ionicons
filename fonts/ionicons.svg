@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20141231 at Wed Apr  1 11:38:38 2015
+Created by FontForge 20141231 at Wed Apr  1 15:08:23 2015
  By Steven Garrity
 Copyright (c) 2015, Steven Garrity
 </metadata>
@@ -22,9 +22,13 @@ Copyright (c) 2015, Steven Garrity
     bbox="-0.128025 -32 512 416"
     underline-thickness="25.6"
     underline-position="-51.2"
-    unicode-range="U+F121-F401"
+    unicode-range="U+F121-F3A7"
   />
     <missing-glyph />
+    <glyph glyph-name="ion-android-radio-button-off" unicode="&#xf3a6;" horiz-adv-x="416" 
+d="M208 400c114 0 208 -94 208 -208s-94 -208 -208 -208s-208 94 -208 208s94 208 208 208zM208 26c92 0 166 74 166 166s-74 166 -166 166s-166 -74 -166 -166s74 -166 166 -166z" />
+    <glyph glyph-name="ion-android-radio-button-on" unicode="&#xf3a7;" horiz-adv-x="416" 
+d="M208 296c57 0 104 -47 104 -104s-47 -104 -104 -104s-104 47 -104 104s47 104 104 104zM208 400c114 0 208 -94 208 -208s-94 -208 -208 -208s-208 94 -208 208s94 208 208 208zM208 26c92 0 166 74 166 166s-74 166 -166 166s-166 -74 -166 -166s74 -166 166 -166z" />
     <glyph glyph-name="ion-checkmark-round" unicode="&#xf121;" horiz-adv-x="416" 
 d="M400 376c17 -13 22 -39 9 -57l-207 -302c-13 -18 -37 -22 -54 -9s-137 147 -137 147c-15 16 -15 42 1 58s40 15 55 -2l99 -107l180 263c13 18 37 22 54 9z" />
     <glyph glyph-name="ion-chevron-down" unicode="&#xf123;" 
@@ -48,10 +52,6 @@ c8 -4 83 -56 132 -88l-83 -93c-2 -2 -2 -4 -1 -5s4 -1 6 1l98 83c15 -10 25 -16 27 -
 d="M224 416c124 0 224 -100 224 -224s-100 -224 -224 -224s-224 100 -224 224s100 224 224 224zM244 89c1 18 -12 31 -29 31c-16 0 -30 -11 -30 -29s12 -30 28 -30c17 0 31 10 31 28zM293 217c7 10 12 22 12 36c0 23 -9 40 -25 52c-17 13 -37 18 -62 18
 c-19 0 -34 -4 -47 -13c-19 -13 -28 -34 -28 -68h49c0 9 -1 19 4 27s13 15 26 15s19 -3 25 -11c5 -7 8 -15 8 -23c0 -7 -4 -14 -8 -20c-2 -4 -6 -7 -10 -10c0 0 -26 -15 -35 -30c-7 -11 -9 -24 -10 -41c0 -1 0 -4 4 -4h39s5 3 5 4c0 6 1 15 2 19c2 7 6 12 12 17l14 9
 c12 9 21 17 25 23z" />
-    <glyph glyph-name="ion-ios-circle-filled" unicode="&#xf400;" horiz-adv-x="416" 
-d="M208 400c115 0 208 -93 208 -208s-93 -208 -208 -208s-208 93 -208 208s93 208 208 208zM208 1c105 0 191 86 191 191s-86 191 -191 191s-191 -86 -191 -191s86 -191 191 -191zM208 352c88 0 160 -72 160 -160s-72 -160 -160 -160s-160 72 -160 160s72 160 160 160z" />
-    <glyph glyph-name="ion-ios-circle-outline" unicode="&#xf401;" horiz-adv-x="416" 
-d="M208 400c115 0 208 -93 208 -208s-93 -208 -208 -208s-208 93 -208 208s93 208 208 208zM208 1c105 0 191 86 191 191s-86 191 -191 191s-191 -86 -191 -191s86 -191 191 -191z" />
     <glyph glyph-name="ion-log-out" unicode="&#xf29f;" 
 d="M335 124l52 52h-227v32h227l-52 52l22 23l91 -91l-91 -91zM359 56c3 3 6 5 8 8h41c-40 -58 -108 -96 -184 -96c-124 0 -224 100 -224 224s100 224 224 224c76 0 144 -38 184 -96h-41c-2 3 -5 5 -8 8c-36 36 -84 56 -135 56s-100 -20 -136 -56s-56 -85 -56 -136
 s20 -100 56 -136s85 -56 136 -56s99 20 135 56z" />

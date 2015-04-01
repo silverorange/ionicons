@@ -1,9 +1,17 @@
 {
-  "build_hash": "90930052c05d2558be243ceecb265830",
+  "build_hash": "eeaa96c587671a0f4ab0559f7f86ba94",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
   "icons": [
+    {
+      "code": "0xf3a6",
+      "name": "android-radio-button-off"
+    },
+    {
+      "code": "0xf3a7",
+      "name": "android-radio-button-on"
+    },
     {
       "code": "0xf121",
       "name": "checkmark-round"
@@ -39,14 +47,6 @@
     {
       "code": "0xf142",
       "name": "help-circled"
-    },
-    {
-      "code": "0xf400",
-      "name": "ios-circle-filled"
-    },
-    {
-      "code": "0xf401",
-      "name": "ios-circle-outline"
     },
     {
       "code": "0xf29f",
