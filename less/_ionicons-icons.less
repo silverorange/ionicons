@@ -2,6 +2,8 @@
 // --------------------------
 
 .ionicons,
+.@{ionicons-prefix}android-radio-button-off:before,
+.@{ionicons-prefix}android-radio-button-on:before,
 .@{ionicons-prefix}checkmark-round:before,
 .@{ionicons-prefix}chevron-down:before,
 .@{ionicons-prefix}chevron-left:before,
@@ -11,8 +13,6 @@
 .@{ionicons-prefix}document-text:before,
 .@{ionicons-prefix}email:before,
 .@{ionicons-prefix}help-circled:before,
-.@{ionicons-prefix}ios-circle-filled:before,
-.@{ionicons-prefix}ios-circle-outline:before,
 .@{ionicons-prefix}log-out:before,
 .@{ionicons-prefix}pause:before,
 .@{ionicons-prefix}play:before,
@@ -28,6 +28,8 @@
 {
   &:extend(.ion);
 }
+.@{ionicons-prefix}android-radio-button-off:before { content: @ionicon-var-android-radio-button-off; }
+.@{ionicons-prefix}android-radio-button-on:before { content: @ionicon-var-android-radio-button-on; }
 .@{ionicons-prefix}checkmark-round:before { content: @ionicon-var-checkmark-round; }
 .@{ionicons-prefix}chevron-down:before { content: @ionicon-var-chevron-down; }
 .@{ionicons-prefix}chevron-left:before { content: @ionicon-var-chevron-left; }
@@ -37,8 +39,6 @@
 .@{ionicons-prefix}document-text:before { content: @ionicon-var-document-text; }
 .@{ionicons-prefix}email:before { content: @ionicon-var-email; }
 .@{ionicons-prefix}help-circled:before { content: @ionicon-var-help-circled; }
-.@{ionicons-prefix}ios-circle-filled:before { content: @ionicon-var-ios-circle-filled; }
-.@{ionicons-prefix}ios-circle-outline:before { content: @ionicon-var-ios-circle-outline; }
 .@{ionicons-prefix}log-out:before { content: @ionicon-var-log-out; }
 .@{ionicons-prefix}pause:before { content: @ionicon-var-pause; }
 .@{ionicons-prefix}play:before { content: @ionicon-var-play; }
