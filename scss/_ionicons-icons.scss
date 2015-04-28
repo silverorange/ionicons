@@ -10,10 +10,12 @@
 .#{$ionicons-prefix}document:before,
 .#{$ionicons-prefix}document-text:before,
 .#{$ionicons-prefix}email:before,
+.#{$ionicons-prefix}flag:before,
 .#{$ionicons-prefix}help-circled:before,
 .#{$ionicons-prefix}ios-circle-filled:before,
 .#{$ionicons-prefix}ios-circle-outline:before,
 .#{$ionicons-prefix}log-out:before,
+.#{$ionicons-prefix}navicon-round:before,
 .#{$ionicons-prefix}pause:before,
 .#{$ionicons-prefix}play:before,
 .#{$ionicons-prefix}radio-waves:before,
@@ -36,10 +38,12 @@
 .#{$ionicons-prefix}document:before { content: $ionicon-var-document; }
 .#{$ionicons-prefix}document-text:before { content: $ionicon-var-document-text; }
 .#{$ionicons-prefix}email:before { content: $ionicon-var-email; }
+.#{$ionicons-prefix}flag:before { content: $ionicon-var-flag; }
 .#{$ionicons-prefix}help-circled:before { content: $ionicon-var-help-circled; }
 .#{$ionicons-prefix}ios-circle-filled:before { content: $ionicon-var-ios-circle-filled; }
 .#{$ionicons-prefix}ios-circle-outline:before { content: $ionicon-var-ios-circle-outline; }
 .#{$ionicons-prefix}log-out:before { content: $ionicon-var-log-out; }
+.#{$ionicons-prefix}navicon-round:before { content: $ionicon-var-navicon-round; }
 .#{$ionicons-prefix}pause:before { content: $ionicon-var-pause; }
 .#{$ionicons-prefix}play:before { content: $ionicon-var-play; }
 .#{$ionicons-prefix}radio-waves:before { content: $ionicon-var-radio-waves; }
