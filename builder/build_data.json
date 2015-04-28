@@ -1,5 +1,5 @@
 {
-  "build_hash": "90930052c05d2558be243ceecb265830",
+  "build_hash": "c33839f05da0e13d4730e4664eb8198d",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -37,6 +37,10 @@
       "name": "email"
     },
     {
+      "code": "0xf279",
+      "name": "flag"
+    },
+    {
       "code": "0xf142",
       "name": "help-circled"
     },
@@ -51,6 +55,10 @@
     {
       "code": "0xf29f",
       "name": "log-out"
+    },
+    {
+      "code": "0xf20d",
+      "name": "navicon-round"
     },
     {
       "code": "0xf210",
