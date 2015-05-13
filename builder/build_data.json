@@ -1,9 +1,13 @@
 {
-  "build_hash": "c33839f05da0e13d4730e4664eb8198d",
+  "build_hash": "d10af2d3323f0b9aff4cd4739448ad65",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
   "icons": [
+    {
+      "code": "0xf138",
+      "name": "apple-podcast"
+    },
     {
       "code": "0xf121",
       "name": "checkmark-round"
@@ -87,6 +91,10 @@
     {
       "code": "0xf231",
       "name": "social-facebook"
+    },
+    {
+      "code": "0xf23d",
+      "name": "social-rss"
     },
     {
       "code": "0xf241",
