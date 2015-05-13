@@ -1,5 +1,5 @@
 {
-  "build_hash": "d10af2d3323f0b9aff4cd4739448ad65",
+  "build_hash": "6cd342e248da25947b173f45f495b990",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -527,6 +527,10 @@
     {
       "code": "0xf313",
       "name": "aperture"
+    },
+    {
+      "code": "0xf138",
+      "name": "apple-podcast"
     },
     {
       "code": "0xf102",
