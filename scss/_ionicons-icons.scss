@@ -2,7 +2,6 @@
 // --------------------------
 
 .ionicons,
-.#{$ionicons-prefix}apple-podcast:before,
 .#{$ionicons-prefix}checkmark-round:before,
 .#{$ionicons-prefix}chevron-down:before,
 .#{$ionicons-prefix}chevron-left:before,
@@ -19,6 +18,7 @@
 .#{$ionicons-prefix}navicon-round:before,
 .#{$ionicons-prefix}pause:before,
 .#{$ionicons-prefix}play:before,
+.#{$ionicons-prefix}podcast:before,
 .#{$ionicons-prefix}radio-waves:before,
 .#{$ionicons-prefix}search:before,
 .#{$ionicons-prefix}skip-backward:before,
@@ -32,7 +32,6 @@
 {
   @extend .ion;
 }
-.#{$ionicons-prefix}apple-podcast:before { content: $ionicon-var-apple-podcast; }
 .#{$ionicons-prefix}checkmark-round:before { content: $ionicon-var-checkmark-round; }
 .#{$ionicons-prefix}chevron-down:before { content: $ionicon-var-chevron-down; }
 .#{$ionicons-prefix}chevron-left:before { content: $ionicon-var-chevron-left; }
@@ -49,6 +48,7 @@
 .#{$ionicons-prefix}navicon-round:before { content: $ionicon-var-navicon-round; }
 .#{$ionicons-prefix}pause:before { content: $ionicon-var-pause; }
 .#{$ionicons-prefix}play:before { content: $ionicon-var-play; }
+.#{$ionicons-prefix}podcast:before { content: $ionicon-var-podcast; }
 .#{$ionicons-prefix}radio-waves:before { content: $ionicon-var-radio-waves; }
 .#{$ionicons-prefix}search:before { content: $ionicon-var-search; }
 .#{$ionicons-prefix}skip-backward:before { content: $ionicon-var-skip-backward; }

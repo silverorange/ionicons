@@ -1,13 +1,9 @@
 {
-  "build_hash": "d10af2d3323f0b9aff4cd4739448ad65",
+  "build_hash": "541b7e7ac07581c6fef28c9dc383df61",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
   "icons": [
-    {
-      "code": "0xf138",
-      "name": "apple-podcast"
-    },
     {
       "code": "0xf121",
       "name": "checkmark-round"
@@ -71,6 +67,10 @@
     {
       "code": "0xf215",
       "name": "play"
+    },
+    {
+      "code": "0xf13c",
+      "name": "podcast"
     },
     {
       "code": "0xf2ac",
