@@ -1,11 +1,11 @@
 {
-    "repo": "driftyco/ionicons",
+    "repo": "silverorange/ionicons-so",
     "development": {},
     "version": "2.0.1",
     "styles": [
         "css/ionicons.css"
     ],
-    "name": "Ionicons",
+    "name": "silverorange Ionicons",
     "dependencies": {},
     "keywords": [],
     "license": "MIT",
@@ -15,5 +15,5 @@
         "fonts/ionicons.ttf",
         "fonts/ionicons.woff"
     ],
-    "description": "The premium icon font for Ionic Framework."
+    "description": "The premium icon font for Ionic Framework. Modified for use by silverorange."
 }
