@@ -1,11 +1,11 @@
 {
-    "repo": "silverorange/ionicons-so",
+    "repo": "silverorange/silverorange-ionicons",
     "development": {},
-    "version": "2.0.1",
+    "version": "2.1.0",
     "styles": [
         "css/ionicons.css"
     ],
-    "name": "silverorange Ionicons",
+    "name": "silverorange-ionicons",
     "dependencies": {},
     "keywords": [],
     "license": "MIT",

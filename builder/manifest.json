@@ -1,8 +1,9 @@
 {
   "build_hash": "f1673de6208ce1afbd02fa4e5b35fd0c",
   "prefix": "ion-",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "name": "Ionicons",
+  "package_name": "silverorange-ionicons",
   "icons": [
     {
       "code": "0xf101",

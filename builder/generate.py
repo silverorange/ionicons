@@ -207,8 +207,8 @@ def generate_cheatsheet(data):
 def generate_component_json(data):
   print "Generate component.json"
   d = {
-    "name": data['display_name'],
-    "repo": "silverorange/ionicons-so",
+    "name": data['package_name'],
+    "repo": "silverorange/silverorange-ionicons",
     "description": "The premium icon font for Ionic Framework. Modified for use by silverorange.",
     "version": data['version'],
     "keywords": [],
@@ -236,10 +236,10 @@ def generate_component_json(data):
 def generate_composer_json(data):
   print "Generate composer.json"
   d = {
-    "name": "silverorange/ionicons-so",
+    "name": "silverorange/silverorange-ionicons",
     "description": "The premium icon font for Ionic Framework. Modified for use by silverorange.",
     "keywords": [ "fonts", "icon font", "icons", "ionic", "web font"],
-    "homepage": "https://github.com/silverorange/ionicons-so",
+    "homepage": "https://github.com/silverorange/silverorange-ionicons",
     "authors": [
       {
         "name": "Ben Sperry",
@@ -274,9 +274,9 @@ def generate_composer_json(data):
 def generate_bower_json(data):
   print "Generate bower.json"
   d = {
-    "name": data['display_name'],
+    "name": data['package_name'],
     "version": data['version'],
-    "homepage": "https://github.com/silverorange/ionicons-so",
+    "homepage": "https://github.com/silverorange/silverorange-ionicons",
     "authors": [
       "Ben Sperry <ben@drifty.com>",
       "Adam Bradley <adam@drifty.com>",
