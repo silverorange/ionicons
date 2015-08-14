@@ -1,5 +1,5 @@
 {
-    "name": "driftyco/ionicons",
+    "name": "silverorange/ionicons-so",
     "license": [
         "MIT"
     ],
@@ -31,6 +31,6 @@
         "ionic",
         "web font"
     ],
-    "homepage": "http://ionicons.com/",
-    "description": "The premium icon font for Ionic Framework."
+    "homepage": "https://github.com/silverorange/ionicons-so",
+    "description": "The premium icon font for Ionic Framework. Modified for use by silverorange."
 }
