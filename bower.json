@@ -8,7 +8,7 @@
         "tests"
     ],
     "version": "2.0.1",
-    "name": "silverorange Ionicons",
+    "name": "silverorange-ionicons",
     "license": "MIT",
     "authors": [
         "Ben Sperry <ben@drifty.com>",
@@ -26,6 +26,6 @@
         "css/ionicons.css",
         "fonts/*"
     ],
-    "homepage": "https://github.com/silverorange/ionicons-so",
+    "homepage": "https://github.com/silverorange/silverorange-ionicons",
     "description": "Ionicons - free and beautiful icons from the creators of Ionic Framework. Modified for use by silverorange."
 }

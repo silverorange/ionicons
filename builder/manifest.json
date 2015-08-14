@@ -3,6 +3,7 @@
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
+  "package_name": "silverorange-ionicons",
   "icons": [
     {
       "code": "0xf101",
