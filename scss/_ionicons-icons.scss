@@ -24,6 +24,7 @@
 .#{$ionicons-prefix}skip-backward:before,
 .#{$ionicons-prefix}skip-forward:before,
 .#{$ionicons-prefix}social-facebook:before,
+.#{$ionicons-prefix}social-instagram:before,
 .#{$ionicons-prefix}social-rss:before,
 .#{$ionicons-prefix}social-tumblr:before,
 .#{$ionicons-prefix}social-twitter:before,
@@ -54,6 +55,7 @@
 .#{$ionicons-prefix}skip-backward:before { content: $ionicon-var-skip-backward; }
 .#{$ionicons-prefix}skip-forward:before { content: $ionicon-var-skip-forward; }
 .#{$ionicons-prefix}social-facebook:before { content: $ionicon-var-social-facebook; }
+.#{$ionicons-prefix}social-instagram:before { content: $ionicon-var-social-instagram; }
 .#{$ionicons-prefix}social-rss:before { content: $ionicon-var-social-rss; }
 .#{$ionicons-prefix}social-tumblr:before { content: $ionicon-var-social-tumblr; }
 .#{$ionicons-prefix}social-twitter:before { content: $ionicon-var-social-twitter; }

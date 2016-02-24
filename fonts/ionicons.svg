@@ -1,13 +1,13 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2015-5-13: Created with FontForge (http://fontforge.org)
+2016-2-24: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20141231 at Wed May 13 16:41:01 2015
+Created by FontForge 20150913 at Wed Feb 24 10:52:36 2016
  By Steven Garrity
-Copyright (c) 2015, Steven Garrity
+Copyright (c) 2016, Steven Garrity
 </metadata>
 <defs>
 <font id="Ionicons" horiz-adv-x="384" >
@@ -83,6 +83,9 @@ d="M372 352c7 0 12 -5 12 -12v-296c0 -7 -5 -12 -12 -12h-8c-7 0 -12 5 -12 12v113l-
 l187 -122v113c0 7 5 12 12 12h8z" />
     <glyph glyph-name="ion-social-facebook" unicode="&#xf231;" horiz-adv-x="192" 
 d="M128 256h64l-8 -64h-56v-192h-83v192h-45v64h45v43c0 54 23 85 91 85h56v-64h-34c-27 0 -30 -9 -30 -26v-38z" />
+    <glyph glyph-name="ion-social-instagram" unicode="&#xf351;" 
+d="M112 192c0 44 36 80 80 80s80 -36 80 -80s-36 -80 -80 -80s-80 36 -80 80zM113 271c-13 -13 -23 -29 -28 -47h-85v112c0 27 22 48 49 48h288c27 0 47 -21 47 -48v-112h-84c-5 18 -15 34 -28 47c-21 21 -50 33 -80 33s-58 -12 -79 -33zM352 300v39c0 7 -6 13 -13 13h-38
+c-7 0 -13 -6 -13 -13v-39c0 -7 6 -12 13 -12h38c7 0 13 5 13 12zM272 113c21 21 32 50 32 79h80v-144c0 -27 -20 -48 -47 -48h-288c-27 0 -49 21 -49 48v144h81c0 -29 11 -58 32 -79s49 -33 79 -33s59 12 80 33z" />
     <glyph glyph-name="ion-social-rss" unicode="&#xf23d;" 
 d="M56 112c31 0 56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56s25 56 56 56zM0 256c140 0 256 -116 256 -256h-80c0 48 -14 94 -48 128s-80 48 -128 48v80zM0 384c212 0 384 -172 384 -384h-80c0 171 -133 304 -304 304v80z" />
     <glyph glyph-name="ion-social-tumblr" unicode="&#xf241;" horiz-adv-x="256" 

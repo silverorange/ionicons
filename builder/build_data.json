@@ -1,7 +1,4 @@
 {
-  "build_hash": "541b7e7ac07581c6fef28c9dc383df61",
-  "prefix": "ion-",
-  "version": "2.1.0",
   "name": "Ionicons",
   "package_name": "silverorange-ionicons",
   "icons": [
@@ -94,6 +91,10 @@
       "name": "social-facebook"
     },
     {
+      "code": "0xf351",
+      "name": "social-instagram"
+    },
+    {
       "code": "0xf23d",
       "name": "social-rss"
     },
@@ -113,5 +114,8 @@
       "code": "0xf256",
       "name": "videocamera"
     }
-  ]
+  ],
+  "build_hash": "f1673de6208ce1afbd02fa4e5b35fd0c",
+  "prefix": "ion-",
+  "version": "2.1.0"
 }
