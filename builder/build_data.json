@@ -51,6 +51,10 @@
       "name": "ios-circle-outline"
     },
     {
+      "code": "0xf200",
+      "name": "locked"
+    },
+    {
       "code": "0xf29f",
       "name": "log-out"
     },
@@ -61,6 +65,10 @@
     {
       "code": "0xf210",
       "name": "pause"
+    },
+    {
+      "code": "0xf212",
+      "name": "person-stalker"
     },
     {
       "code": "0xf215",
@@ -115,7 +123,7 @@
       "name": "videocamera"
     }
   ],
-  "build_hash": "f1673de6208ce1afbd02fa4e5b35fd0c",
+  "build_hash": "fdbae80ed0e05270eedf612cbac1c6f0",
   "prefix": "ion-",
   "version": "2.1.0"
 }
